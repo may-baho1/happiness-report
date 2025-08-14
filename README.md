@@ -1,4 +1,4 @@
-# Annual Happiness Survey
+# Annual Global Happiness
 Welcome to this dashboard, which provides a comprehensive look at the factors influencing world happiness, based on data from the 2016 World Happiness Report. This series of visualizations helps us explore the key drivers of happiness, understand how they are distributed globally, and see the relationships between various attributes.
 
 **Understanding the Key Drivers of Happiness**
